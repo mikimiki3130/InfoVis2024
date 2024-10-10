@@ -1,0 +1,70 @@
+<html>
+    <head>
+	    <title>W02: task03</title>
+    </head>
+
+    <body>
+        <script src="vec3.js"></script>
+
+        <div id="inputFields"></div>
+
+        <script>
+            let inputFieldsDiv = document.getElementById("inputFields");
+            // 動的に入力フィールドを生成
+            for (let i = 0; i < 3; i++) {
+                inputFieldsDiv.innerHTML += `
+                    <label>x${i}: 
+                        <input type="number" value="0" id="x${i}"> 
+                    </label>
+                    <label>y${i}: 
+                        <input type="number" value="0" size=40 id="y${i}"> 
+                    </label>
+                    <label>z${i}: 
+                        <input type="number" value="0" id="z${i}"> 
+                    </label>
+                    <br>
+                `;
+            }
+        </script>
+
+        <input type="button" onclick="main()" size=40 value="Calculate"/>
+        
+        <script>
+            AreaOfTriangle = function(v0, v1, v2){
+
+                // 外積を計算
+                let cross_product = (v1.sub(v0)).cross(v2.sub(v0));
+                
+                // 外積の大きさを計算
+                let cp_length = cross_product.length();
+
+                // 外積の大きさの1/2が面積
+                return cp_length* 0.5; 
+            }
+
+            // 入力を取得
+            getValues = function() {
+                let values = [];
+                for (let i = 0; i < 3; i++) {
+                    let x = parseInt(document.getElementById(`x${i}`).value);
+                    let y = parseInt(document.getElementById(`y${i}`).value);
+                    let z = parseInt(document.getElementById(`z${i}`).value);
+                    values.push({ x, y, z });
+                }
+                return values;
+            }
+
+            main = function() {
+
+                let values = getValues();
+                var v0 = new Vec3(values[0].x, values[0].y, values[0].z);
+                var v1 = new Vec3(values[1].x, values[1].y, values[1].z);
+                var v2 = new Vec3(values[2].x, values[2].y, values[2].z);
+
+                let S = AreaOfTriangle(v0, v1, v2);
+
+                document.write("S= " + S);
+            }
+        </script>
+    </body>
+</html>

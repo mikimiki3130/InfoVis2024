@@ -1,0 +1,54 @@
+<html>
+    <head>
+	    <title>W02: task02</title>
+    </head>
+
+    <body>
+        <script src="vec3.js"></script>
+        <label>x:
+            <input type="number" value="5" id="x">
+        </label>
+        <label>y:
+            <input type="number" value="4" id="y">
+        </label>
+        <label>z:
+            <input type="number" value="8" id="z">
+        </label>
+
+        <input type="button" onclick="show()" size=40 value="Calculate"/>
+        
+        
+        <script>
+
+            let x = parseInt(document.getElementById("x").value);
+            let y = parseInt(document.getElementById("y").value);
+            let z = parseInt(document.getElementById("z").value);
+
+            
+            // var x = 5, y = 4, z = 8; // (input values)
+            calc = function(x, y, z){
+                var v = new Vec3( x, y, z );
+
+                var min = v.min(); // 4 (output value)
+
+                var mid = v.mid(); // 5 (output value)
+
+                var max = v.max(); // 8 (output value)
+
+                return { min: min, mid: mid, max: max };
+            }
+
+            show = function() {
+                let x = parseInt(document.getElementById("x").value);
+                let y = parseInt(document.getElementById("y").value);
+                let z = parseInt(document.getElementById("z").value);
+
+                let { min, mid, max } = calc(x, y, z);
+
+                document.write("min: " + min + "<br>");
+                document.write("mid: " + mid + "<br>");
+                document.write("max: " + max + "<br>");
+            }
+        </script>
+    </body>
+</html>
