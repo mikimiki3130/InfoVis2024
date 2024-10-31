@@ -8,6 +8,12 @@
 	 var svg = d3.select("body").append("svg");
 	 d3.csv("https://mikimiki3130.github.io/InfoVis2024/W04/w04_task2.csv", draw );
 	 function draw(data){
+		svg.selectAll("text")
+		.data(data)
+	        .enter()
+	        .append("text")
+				.attr("text", function(d){return d.label;})
+
 	    svg.selectAll("rect")
 		.data(data)
 	        .enter()
