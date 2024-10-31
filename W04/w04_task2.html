@@ -21,9 +21,10 @@
 	        .enter()
 	        .append("rect")
 				.attr("x", 60)
+				.attr("height", 15)
 				.attr("y", function(d, i) { return i * 20 + 10; })
 				.attr("width", function(d){ return d.quantity; })
-				.attr("height", 15)
+				.attr("fill", function(d){ return d.color; })
 	 };
 	</script>
     </body>
