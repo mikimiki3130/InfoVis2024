@@ -1,7 +1,7 @@
-quantity,label
-10,first
-40,second
-70,third
-100,fourth
-130,fifth
-160,sixth
+quantity,label,color
+10,first,red
+40,second,steelblue
+70,third,magenta
+100,fourth,orange
+130,fifth,cyan
+160,sixth,gray
