@@ -1,7 +1,7 @@
-quantity,width,label
-10,12,first
-40,20,second
-70,10,third
-100,5,fourth
-130,10,fifth
-160,10,sixth
+quantity,label
+10,first
+40,second
+70,third
+100,fourth
+130,fifth
+160,sixth
