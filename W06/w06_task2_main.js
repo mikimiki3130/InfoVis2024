@@ -47,7 +47,7 @@ class ScatterPlot {
             .attr('transform', `translate(${self.config.margin.left}, ${self.config.margin.top})`);
 
         self.title = self.svg.append("text")
-            .attr("x", (self.config.width / 2))             
+            .attr("x", (self.config.width / 2)) 
             .attr("y", (self.config.margin.top / 2))
             .attr("text-anchor", "middle")  
             .style("font-size", "16px") 
@@ -61,10 +61,10 @@ class ScatterPlot {
             .text(self.config.xlabel);
 
         self.ylabel = self.svg.append("text")
-            //-90° rotate（cos(θ-π/2) = -sinθ, sin(θ-π/2) = cosθ）
+            //-90°回転前の座標を設定（cos(θ-π/2) = -sinθ, sin(θ-π/2) = cosθ）
             .attr("x", (-self.config.height / 2)) // .attr("y", (self.config.height / 2))
             .attr("y", (self.config.margin.left / 4)) // .attr("x", (self.config.margin.left / 4)) 
-            .attr("transform", "rotate(-90)")
+            .attr("transform", "rotate(-90)") //xy設定前に書けば回転しない？
             .attr("text-anchor", "middle")
             .style("font-size", "14px") 
             .text(self.config.ylabel);
@@ -77,7 +77,7 @@ class ScatterPlot {
 
         self.yscale = d3.scaleLinear()
             .range( [0, self.inner_height] );
-
+            
         self.xaxis = d3.axisBottom( self.xscale )
             .ticks(6);
 
