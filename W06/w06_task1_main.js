@@ -67,11 +67,11 @@ class ScatterPlot {
 
         const xmin = d3.min( self.data, d => d.x );
         const xmax = d3.max( self.data, d => d.x );
-        self.xscale.domain( [xmin, xmax] );
+        self.xscale.domain( [(xmin -10), (xmax +10)] ); // 倍数の場合、minが小さすぎるとうまくいかないため定数を使用
 
         const ymin = d3.min( self.data, d => d.y );
         const ymax = d3.max( self.data, d => d.y );
-        self.yscale.domain( [ymin, ymax] );
+        self.yscale.domain( [(ymin -10), (ymax +10)] );
 
         self.render();
     }
