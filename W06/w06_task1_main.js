@@ -1,4 +1,5 @@
-d3.csv("https://vizlab-kobe-lecture.github.io/InfoVis2021/W04/data.csv")
+d3.csv("https://mikimiki3130.github.io/InfoVis2024/W04/w04_task1.csv")
+
     .then( data => {
         data.forEach( d => { d.x = +d.x; d.y = +d.y; });
 
@@ -6,7 +7,7 @@ d3.csv("https://vizlab-kobe-lecture.github.io/InfoVis2021/W04/data.csv")
             parent: '#drawing_region', // html内で同IDを持つ場所に描く
             width: 256,
             height: 256,
-            margin: {top:10, right:10, bottom:20, left:10}
+            margin: {top:20, right:10, bottom:20, left:25}
         };
 
         const scatter_plot = new ScatterPlot( config, data );
@@ -51,8 +52,14 @@ class ScatterPlot {
         self.xaxis = d3.axisBottom( self.xscale )
             .ticks(6);
 
+        self.yaxis = d3.axisLeft( self.yscale )
+            .ticks(6);
+
         self.xaxis_group = self.chart.append('g')
             .attr('transform', `translate(0, ${self.inner_height})`);
+        
+        self.yaxis_group = self.chart.append('g')
+            .attr('transform', `translate(0, 0)`);
     }
 
     update() {
@@ -82,5 +89,8 @@ class ScatterPlot {
 
         self.xaxis_group
             .call( self.xaxis );
+
+        self.yaxis_group
+            .call( self.yaxis );
     }
 }
