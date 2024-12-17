@@ -85,5 +85,5 @@ class LineChart {
     }
 }
 
-const bar = new BarChart();
-bar.init();
+const line = new LineChart();
+line.init();
