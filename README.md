@@ -17,3 +17,6 @@
 - https://mikimiki3130.github.io/InfoVis2024/W08/w08_task2_index.html
 - https://mikimiki3130.github.io/InfoVis2024/W08/w08_task3_index.html
 
+## W09
+- https://mikimiki3130.github.io/InfoVis2024/W10/w10_task1_index.html
+- https://mikimiki3130.github.io/InfoVis2024/W10/w10_task2_index.html
