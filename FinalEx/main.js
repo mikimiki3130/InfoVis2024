@@ -1,5 +1,5 @@
 // main関数
-d3.csv("hhttps://mikimiki3130.github.io/InfoVis2024/FinalEx/data.csv").then(function(data) {
+d3.csv("https://mikimiki3130.github.io/InfoVis2024/FinalEx/data.csv").then(function(data) {
     let parsedData = {};
     const headers = Object.keys(data[0]);
 
