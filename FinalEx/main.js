@@ -14,7 +14,7 @@ d3.csv("https://vizlab-kobe-lecture.github.io/InfoVis2021/FinalEx/data.csv").the
 
     // データ変換
     data.forEach(row => {
-        let month = +row["(Empty)"];
+        let month = +row["Empty"];
         for (let region in locations) {
             locations[region].forEach(variable => {
                 let key = region.trim();
