@@ -1,5 +1,5 @@
 // main関数
-d3.csv("data.csv").then(function(data) {
+d3.csv("https://vizlab-kobe-lecture.github.io/InfoVis2021/FinalEx/data.csv").then(function(data) {
     let parsedData = {};
     const headers = Object.keys(data[0]);
 
