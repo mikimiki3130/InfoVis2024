@@ -1,0 +1,2234 @@
+[
+    {
+        "name": "広島",
+        "month": 1,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 5.7,
+        "Total Precipitation (mm)": 45.5,
+        "Sunshine Duration (hours)": 163.8,
+        "Average Wind Speed (m/s)": 3.0,
+        "Average Vapor Pressure (hPa)": 5.8,
+        "Average Cloud Cover (tenths)": 6.1
+    },
+    {
+        "name": "岡山",
+        "month": 1,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 4.8,
+        "Total Precipitation (mm)": 19.5,
+        "Sunshine Duration (hours)": 162.4,
+        "Average Wind Speed (m/s)": 3.0,
+        "Average Vapor Pressure (hPa)": 6.1
+    },
+    {
+        "name": "山口",
+        "month": 1,
+        "Average Temperature (°C)": 4.8,
+        "Total Precipitation (mm)": 78.5,
+        "Sunshine Duration (hours)": 147.1,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 6.8
+    },
+    {
+        "name": "浜田",
+        "month": 1,
+        "Average Temperature (°C)": 6.8,
+        "Total Precipitation (mm)": 77.0,
+        "Sunshine Duration (hours)": 84.9,
+        "Average Wind Speed (m/s)": 4.2,
+        "Average Vapor Pressure (hPa)": 6.9
+    },
+    {
+        "name": "松江",
+        "month": 1,
+        "Average Temperature (°C)": 5.0,
+        "Total Precipitation (mm)": 178.0,
+        "Sunshine Duration (hours)": 85.3,
+        "Average Wind Speed (m/s)": 3.3,
+        "Average Vapor Pressure (hPa)": 7.0
+    },
+    {
+        "name": "鳥取",
+        "month": 1,
+        "Average Temperature (°C)": 4.7,
+        "Total Precipitation (mm)": 237.0,
+        "Sunshine Duration (hours)": 70.3,
+        "Average Wind Speed (m/s)": 3.1,
+        "Average Vapor Pressure (hPa)": 7.2
+    },
+    {
+        "name": "米子",
+        "month": 1,
+        "Average Temperature (°C)": 5.1,
+        "Total Precipitation (mm)": 156.0,
+        "Sunshine Duration (hours)": 87.3,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 6.8
+    },
+    {
+        "name": "福山",
+        "month": 1,
+        "Average Temperature (°C)": 4.7,
+        "Total Precipitation (mm)": 21.5,
+        "Sunshine Duration (hours)": 161.0,
+        "Average Wind Speed (m/s)": 1.7,
+        "Average Vapor Pressure (hPa)": 6.3
+    },
+    {
+        "name": "呉",
+        "month": 1,
+        "Average Temperature (°C)": 6.3,
+        "Total Precipitation (mm)": 50.5,
+        "Sunshine Duration (hours)": 159.5,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 6.4
+    },
+    {
+        "name": "姫路",
+        "month": 1,
+        "Average Temperature (°C)": 4.5,
+        "Total Precipitation (mm)": 34.0,
+        "Sunshine Duration (hours)": 161.9,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 6.3
+    },
+    {
+        "name": "神戸",
+        "month": 1,
+        "Average Temperature (°C)": 6.6,
+        "Total Precipitation (mm)": 54.5,
+        "Sunshine Duration (hours)": 158.4,
+        "Average Wind Speed (m/s)": 3.5,
+        "Average Vapor Pressure (hPa)": 6.3
+    },
+    {
+        "name": "洲本",
+        "month": 1,
+        "Average Temperature (°C)": 5.9,
+        "Total Precipitation (mm)": 38.0,
+        "Sunshine Duration (hours)": 140.5,
+        "Average Wind Speed (m/s)": 3.8,
+        "Average Vapor Pressure (hPa)": 6.8
+    },
+    {
+        "name": "豊岡",
+        "month": 1,
+        "Average Temperature (°C)": 3.8,
+        "Total Precipitation (mm)": 301.5,
+        "Sunshine Duration (hours)": 71.5,
+        "Average Wind Speed (m/s)": 1.4,
+        "Average Vapor Pressure (hPa)": 7.1
+    },
+    {
+        "name": "京都",
+        "month": 1,
+        "Average Temperature (°C)": 5.1,
+        "Total Precipitation (mm)": 39.0,
+        "Sunshine Duration (hours)": 144.9,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 6.4
+    },
+    {
+        "name": "舞鶴",
+        "month": 1,
+        "Average Temperature (°C)": 3.9,
+        "Total Precipitation (mm)": 198.0,
+        "Sunshine Duration (hours)": 75.9,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 7.2
+    },
+    {
+        "name": "大阪",
+        "month": 1,
+        "Average Temperature (°C)": 6.5,
+        "Total Precipitation (mm)": 46.0,
+        "Sunshine Duration (hours)": 161.4,
+        "Average Wind Speed (m/s)": 2.1,
+        "Average Vapor Pressure (hPa)": 6.2,
+        "Average Cloud Cover (tenths)": 5.6
+    },
+    {
+        "name": "潮岬",
+        "month": 1,
+        "Average Temperature (°C)": 8.5,
+        "Total Precipitation (mm)": 92.5,
+        "Sunshine Duration (hours)": 210.9,
+        "Average Wind Speed (m/s)": 4.1,
+        "Average Vapor Pressure (hPa)": 5.7
+    },
+    {
+        "name": "和歌山",
+        "month": 1,
+        "Average Temperature (°C)": 6.7,
+        "Total Precipitation (mm)": 45.5,
+        "Sunshine Duration (hours)": 150.2,
+        "Average Wind Speed (m/s)": 3.9,
+        "Average Vapor Pressure (hPa)": 6.6
+    },
+    {
+        "name": "奈良",
+        "month": 1,
+        "Average Temperature (°C)": 4.7,
+        "Total Precipitation (mm)": 27.5,
+        "Sunshine Duration (hours)": 120.7,
+        "Average Wind Speed (m/s)": 2.1,
+        "Average Vapor Pressure (hPa)": 6.4
+    },
+    {
+        "name": "彦根",
+        "month": 1,
+        "Average Temperature (°C)": 4.1,
+        "Total Precipitation (mm)": 60.5,
+        "Sunshine Duration (hours)": 98.4,
+        "Average Wind Speed (m/s)": 3.1,
+        "Average Vapor Pressure (hPa)": 6.7
+    },
+    {
+        "name": "広島",
+        "month": 2,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 6.9,
+        "Total Precipitation (mm)": 61.5,
+        "Sunshine Duration (hours)": 139.9,
+        "Average Wind Speed (m/s)": 3.3,
+        "Average Vapor Pressure (hPa)": 6.0,
+        "Average Cloud Cover (tenths)": 6.4
+    },
+    {
+        "name": "岡山",
+        "month": 2,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 5.7,
+        "Total Precipitation (mm)": 24.5,
+        "Sunshine Duration (hours)": 141.5,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 6.4
+    },
+    {
+        "name": "山口",
+        "month": 2,
+        "Average Temperature (°C)": 6.3,
+        "Total Precipitation (mm)": 94.5,
+        "Sunshine Duration (hours)": 118.0,
+        "Average Wind Speed (m/s)": 1.7,
+        "Average Vapor Pressure (hPa)": 7.3
+    },
+    {
+        "name": "浜田",
+        "month": 2,
+        "Average Temperature (°C)": 7.3,
+        "Total Precipitation (mm)": 109.5,
+        "Sunshine Duration (hours)": 118.9,
+        "Average Wind Speed (m/s)": 3.6,
+        "Average Vapor Pressure (hPa)": 7.2
+    },
+    {
+        "name": "松江",
+        "month": 2,
+        "Average Temperature (°C)": 5.7,
+        "Total Precipitation (mm)": 107.0,
+        "Sunshine Duration (hours)": 104.0,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 7.0
+    },
+    {
+        "name": "鳥取",
+        "month": 2,
+        "Average Temperature (°C)": 5.7,
+        "Total Precipitation (mm)": 86.0,
+        "Sunshine Duration (hours)": 85.3,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 6.9
+    },
+    {
+        "name": "米子",
+        "month": 2,
+        "Average Temperature (°C)": 6.0,
+        "Total Precipitation (mm)": 93.0,
+        "Sunshine Duration (hours)": 98.5,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 6.8
+    },
+    {
+        "name": "福山",
+        "month": 2,
+        "Average Temperature (°C)": 5.5,
+        "Total Precipitation (mm)": 30.5,
+        "Sunshine Duration (hours)": 140.4,
+        "Average Wind Speed (m/s)": 1.5,
+        "Average Vapor Pressure (hPa)": 6.6
+    },
+    {
+        "name": "呉",
+        "month": 2,
+        "Average Temperature (°C)": 7.0,
+        "Total Precipitation (mm)": 40.5,
+        "Sunshine Duration (hours)": 142.2,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 6.7
+    },
+    {
+        "name": "姫路",
+        "month": 2,
+        "Average Temperature (°C)": 5.5,
+        "Total Precipitation (mm)": 35.5,
+        "Sunshine Duration (hours)": 115.7,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 6.5
+    },
+    {
+        "name": "神戸",
+        "month": 2,
+        "Average Temperature (°C)": 7.2,
+        "Total Precipitation (mm)": 27.5,
+        "Sunshine Duration (hours)": 133.1,
+        "Average Wind Speed (m/s)": 3.4,
+        "Average Vapor Pressure (hPa)": 6.6
+    },
+    {
+        "name": "洲本",
+        "month": 2,
+        "Average Temperature (°C)": 5.9,
+        "Total Precipitation (mm)": 34.0,
+        "Sunshine Duration (hours)": 125.9,
+        "Average Wind Speed (m/s)": 2.9,
+        "Average Vapor Pressure (hPa)": 7.0
+    },
+    {
+        "name": "豊岡",
+        "month": 2,
+        "Average Temperature (°C)": 4.5,
+        "Total Precipitation (mm)": 106.0,
+        "Sunshine Duration (hours)": 74.8,
+        "Average Wind Speed (m/s)": 1.6,
+        "Average Vapor Pressure (hPa)": 6.8
+    },
+    {
+        "name": "京都",
+        "month": 2,
+        "Average Temperature (°C)": 6.0,
+        "Total Precipitation (mm)": 36.0,
+        "Sunshine Duration (hours)": 110.0,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 6.5
+    },
+    {
+        "name": "舞鶴",
+        "month": 2,
+        "Average Temperature (°C)": 4.9,
+        "Total Precipitation (mm)": 85.5,
+        "Sunshine Duration (hours)": 73.4,
+        "Average Wind Speed (m/s)": 2.8,
+        "Average Vapor Pressure (hPa)": 6.9
+    },
+    {
+        "name": "大阪",
+        "month": 2,
+        "Average Temperature (°C)": 7.0,
+        "Total Precipitation (mm)": 33.5,
+        "Sunshine Duration (hours)": 134.4,
+        "Average Wind Speed (m/s)": 2.1,
+        "Average Vapor Pressure (hPa)": 6.3,
+        "Average Cloud Cover (tenths)": 6.3
+    },
+    {
+        "name": "潮岬",
+        "month": 2,
+        "Average Temperature (°C)": 9.3,
+        "Total Precipitation (mm)": 25.5,
+        "Sunshine Duration (hours)": 181.6,
+        "Average Wind Speed (m/s)": 3.4,
+        "Average Vapor Pressure (hPa)": 7.4
+    },
+    {
+        "name": "和歌山",
+        "month": 2,
+        "Average Temperature (°C)": 7.3,
+        "Total Precipitation (mm)": 23.5,
+        "Sunshine Duration (hours)": 147.0,
+        "Average Wind Speed (m/s)": 4.1,
+        "Average Vapor Pressure (hPa)": 6.8
+    },
+    {
+        "name": "奈良",
+        "month": 2,
+        "Average Temperature (°C)": 5.4,
+        "Total Precipitation (mm)": 39.0,
+        "Sunshine Duration (hours)": 115.9,
+        "Average Wind Speed (m/s)": 1.9,
+        "Average Vapor Pressure (hPa)": 6.6
+    },
+    {
+        "name": "彦根",
+        "month": 2,
+        "Average Temperature (°C)": 5.0,
+        "Total Precipitation (mm)": 55.0,
+        "Sunshine Duration (hours)": 126.0,
+        "Average Wind Speed (m/s)": 3.7,
+        "Average Vapor Pressure (hPa)": 6.6
+    },
+    {
+        "name": "広島",
+        "month": 3,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 12.6,
+        "Total Precipitation (mm)": 64.5,
+        "Sunshine Duration (hours)": 213.6,
+        "Average Wind Speed (m/s)": 3.3,
+        "Average Vapor Pressure (hPa)": 8.3,
+        "Average Cloud Cover (tenths)": 5.5
+    },
+    {
+        "name": "岡山",
+        "month": 3,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 11.8,
+        "Total Precipitation (mm)": 70.5,
+        "Sunshine Duration (hours)": 218.2,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 9.0
+    },
+    {
+        "name": "山口",
+        "month": 3,
+        "Average Temperature (°C)": 11.7,
+        "Total Precipitation (mm)": 67.5,
+        "Sunshine Duration (hours)": 192.7,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 10.0
+    },
+    {
+        "name": "浜田",
+        "month": 3,
+        "Average Temperature (°C)": 11.7,
+        "Total Precipitation (mm)": 101.0,
+        "Sunshine Duration (hours)": 210.1,
+        "Average Wind Speed (m/s)": 3.3,
+        "Average Vapor Pressure (hPa)": 9.7
+    },
+    {
+        "name": "松江",
+        "month": 3,
+        "Average Temperature (°C)": 10.9,
+        "Total Precipitation (mm)": 95.0,
+        "Sunshine Duration (hours)": 208.3,
+        "Average Wind Speed (m/s)": 2.8,
+        "Average Vapor Pressure (hPa)": 9.5
+    },
+    {
+        "name": "鳥取",
+        "month": 3,
+        "Average Temperature (°C)": 11.1,
+        "Total Precipitation (mm)": 77.5,
+        "Sunshine Duration (hours)": 201.2,
+        "Average Wind Speed (m/s)": 3.1,
+        "Average Vapor Pressure (hPa)": 9.1
+    },
+    {
+        "name": "米子",
+        "month": 3,
+        "Average Temperature (°C)": 11.2,
+        "Total Precipitation (mm)": 69.0,
+        "Sunshine Duration (hours)": 206.9,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 9.1
+    },
+    {
+        "name": "福山",
+        "month": 3,
+        "Average Temperature (°C)": 11.0,
+        "Total Precipitation (mm)": 59.5,
+        "Sunshine Duration (hours)": 215.2,
+        "Average Wind Speed (m/s)": 1.6,
+        "Average Vapor Pressure (hPa)": 9.3
+    },
+    {
+        "name": "呉",
+        "month": 3,
+        "Average Temperature (°C)": 12.2,
+        "Total Precipitation (mm)": 66.5,
+        "Sunshine Duration (hours)": 215.8,
+        "Average Wind Speed (m/s)": 2.0,
+        "Average Vapor Pressure (hPa)": 9.4
+    },
+    {
+        "name": "姫路",
+        "month": 3,
+        "Average Temperature (°C)": 11.4,
+        "Total Precipitation (mm)": 84.0,
+        "Sunshine Duration (hours)": 221.4,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 9.1
+    },
+    {
+        "name": "神戸",
+        "month": 3,
+        "Average Temperature (°C)": 13.0,
+        "Total Precipitation (mm)": 85.5,
+        "Sunshine Duration (hours)": 225.8,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 9.3
+    },
+    {
+        "name": "洲本",
+        "month": 3,
+        "Average Temperature (°C)": 11.8,
+        "Total Precipitation (mm)": 92.0,
+        "Sunshine Duration (hours)": 215.8,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 10.1
+    },
+    {
+        "name": "豊岡",
+        "month": 3,
+        "Average Temperature (°C)": 10.1,
+        "Total Precipitation (mm)": 94.5,
+        "Sunshine Duration (hours)": 189.3,
+        "Average Wind Speed (m/s)": 1.7,
+        "Average Vapor Pressure (hPa)": 8.9
+    },
+    {
+        "name": "京都",
+        "month": 3,
+        "Average Temperature (°C)": 12.3,
+        "Total Precipitation (mm)": 91.5,
+        "Sunshine Duration (hours)": 213.1,
+        "Average Wind Speed (m/s)": 1.9,
+        "Average Vapor Pressure (hPa)": 8.4
+    },
+    {
+        "name": "舞鶴",
+        "month": 3,
+        "Average Temperature (°C)": 10.3,
+        "Total Precipitation (mm)": 96.5,
+        "Sunshine Duration (hours)": 197.1,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 9.1
+    },
+    {
+        "name": "大阪",
+        "month": 3,
+        "Average Temperature (°C)": 13.0,
+        "Total Precipitation (mm)": 76.0,
+        "Sunshine Duration (hours)": 225.1,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 8.7,
+        "Average Cloud Cover (tenths)": 5.7
+    },
+    {
+        "name": "潮岬",
+        "month": 3,
+        "Average Temperature (°C)": 14.1,
+        "Total Precipitation (mm)": 124.0,
+        "Sunshine Duration (hours)": 224.2,
+        "Average Wind Speed (m/s)": 3.7,
+        "Average Vapor Pressure (hPa)": 11.5
+    },
+    {
+        "name": "和歌山",
+        "month": 3,
+        "Average Temperature (°C)": 12.7,
+        "Total Precipitation (mm)": 84.0,
+        "Sunshine Duration (hours)": 224.2,
+        "Average Wind Speed (m/s)": 3.7,
+        "Average Vapor Pressure (hPa)": 9.4
+    },
+    {
+        "name": "奈良",
+        "month": 3,
+        "Average Temperature (°C)": 11.6,
+        "Total Precipitation (mm)": 66.5,
+        "Sunshine Duration (hours)": 207.5,
+        "Average Wind Speed (m/s)": 1.9,
+        "Average Vapor Pressure (hPa)": 8.6
+    },
+    {
+        "name": "彦根",
+        "month": 3,
+        "Average Temperature (°C)": 10.2,
+        "Total Precipitation (mm)": 100.5,
+        "Sunshine Duration (hours)": 199.5,
+        "Average Wind Speed (m/s)": 2.7,
+        "Average Vapor Pressure (hPa)": 9.0
+    },
+    {
+        "name": "広島",
+        "month": 4,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 15.7,
+        "Total Precipitation (mm)": 246.5,
+        "Sunshine Duration (hours)": 200.6,
+        "Average Wind Speed (m/s)": 3.3,
+        "Average Vapor Pressure (hPa)": 9.9,
+        "Average Cloud Cover (tenths)": 6.1
+    },
+    {
+        "name": "岡山",
+        "month": 4,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 14.8,
+        "Total Precipitation (mm)": 160.5,
+        "Sunshine Duration (hours)": 196.2,
+        "Average Wind Speed (m/s)": 2.8,
+        "Average Vapor Pressure (hPa)": 11.3
+    },
+    {
+        "name": "山口",
+        "month": 4,
+        "Average Temperature (°C)": 15.1,
+        "Total Precipitation (mm)": 252.0,
+        "Sunshine Duration (hours)": 200.8,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 11.8
+    },
+    {
+        "name": "浜田",
+        "month": 4,
+        "Average Temperature (°C)": 14.5,
+        "Total Precipitation (mm)": 199.5,
+        "Sunshine Duration (hours)": 199.8,
+        "Average Wind Speed (m/s)": 3.6,
+        "Average Vapor Pressure (hPa)": 11.7
+    },
+    {
+        "name": "松江",
+        "month": 4,
+        "Average Temperature (°C)": 14.3,
+        "Total Precipitation (mm)": 176.0,
+        "Sunshine Duration (hours)": 193.7,
+        "Average Wind Speed (m/s)": 3.9,
+        "Average Vapor Pressure (hPa)": 11.6
+    },
+    {
+        "name": "鳥取",
+        "month": 4,
+        "Average Temperature (°C)": 14.3,
+        "Total Precipitation (mm)": 205.0,
+        "Sunshine Duration (hours)": 189.3,
+        "Average Wind Speed (m/s)": 3.5,
+        "Average Vapor Pressure (hPa)": 11.2
+    },
+    {
+        "name": "米子",
+        "month": 4,
+        "Average Temperature (°C)": 14.3,
+        "Total Precipitation (mm)": 176.5,
+        "Sunshine Duration (hours)": 188.6,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 11.1
+    },
+    {
+        "name": "福山",
+        "month": 4,
+        "Average Temperature (°C)": 14.3,
+        "Total Precipitation (mm)": 190.0,
+        "Sunshine Duration (hours)": 196.4,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 11.1
+    },
+    {
+        "name": "呉",
+        "month": 4,
+        "Average Temperature (°C)": 15.3,
+        "Total Precipitation (mm)": 243.5,
+        "Sunshine Duration (hours)": 206.4,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 11.1
+    },
+    {
+        "name": "姫路",
+        "month": 4,
+        "Average Temperature (°C)": 14.5,
+        "Total Precipitation (mm)": 172.0,
+        "Sunshine Duration (hours)": 193.0,
+        "Average Wind Speed (m/s)": 3.0,
+        "Average Vapor Pressure (hPa)": 11.4
+    },
+    {
+        "name": "神戸",
+        "month": 4,
+        "Average Temperature (°C)": 15.9,
+        "Total Precipitation (mm)": 161.5,
+        "Sunshine Duration (hours)": 196.9,
+        "Average Wind Speed (m/s)": 3.7,
+        "Average Vapor Pressure (hPa)": 11.7
+    },
+    {
+        "name": "洲本",
+        "month": 4,
+        "Average Temperature (°C)": 15.0,
+        "Total Precipitation (mm)": 220.0,
+        "Sunshine Duration (hours)": 203.2,
+        "Average Wind Speed (m/s)": 4.6,
+        "Average Vapor Pressure (hPa)": 12.5
+    },
+    {
+        "name": "豊岡",
+        "month": 4,
+        "Average Temperature (°C)": 13.8,
+        "Total Precipitation (mm)": 184.5,
+        "Sunshine Duration (hours)": 171.5,
+        "Average Wind Speed (m/s)": 2.2,
+        "Average Vapor Pressure (hPa)": 11.1
+    },
+    {
+        "name": "京都",
+        "month": 4,
+        "Average Temperature (°C)": 15.4,
+        "Total Precipitation (mm)": 208.0,
+        "Sunshine Duration (hours)": 188.3,
+        "Average Wind Speed (m/s)": 2.2,
+        "Average Vapor Pressure (hPa)": 10.8
+    },
+    {
+        "name": "舞鶴",
+        "month": 4,
+        "Average Temperature (°C)": 14.0,
+        "Total Precipitation (mm)": 166.0,
+        "Sunshine Duration (hours)": 162.9,
+        "Average Wind Speed (m/s)": 3.1,
+        "Average Vapor Pressure (hPa)": 11.5
+    },
+    {
+        "name": "大阪",
+        "month": 4,
+        "Average Temperature (°C)": 15.9,
+        "Total Precipitation (mm)": 196.5,
+        "Sunshine Duration (hours)": 193.1,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 11.3,
+        "Average Cloud Cover (tenths)": 6.8
+    },
+    {
+        "name": "潮岬",
+        "month": 4,
+        "Average Temperature (°C)": 16.5,
+        "Total Precipitation (mm)": 119.5,
+        "Sunshine Duration (hours)": 191.6,
+        "Average Wind Speed (m/s)": 4.0,
+        "Average Vapor Pressure (hPa)": 13.4
+    },
+    {
+        "name": "和歌山",
+        "month": 4,
+        "Average Temperature (°C)": 16.1,
+        "Total Precipitation (mm)": 170.0,
+        "Sunshine Duration (hours)": 204.4,
+        "Average Wind Speed (m/s)": 4.5,
+        "Average Vapor Pressure (hPa)": 11.9
+    },
+    {
+        "name": "奈良",
+        "month": 4,
+        "Average Temperature (°C)": 14.9,
+        "Total Precipitation (mm)": 149.5,
+        "Sunshine Duration (hours)": 182.8,
+        "Average Wind Speed (m/s)": 2.1,
+        "Average Vapor Pressure (hPa)": 11.2
+    },
+    {
+        "name": "彦根",
+        "month": 4,
+        "Average Temperature (°C)": 13.7,
+        "Total Precipitation (mm)": 188.5,
+        "Sunshine Duration (hours)": 184.4,
+        "Average Wind Speed (m/s)": 3.0,
+        "Average Vapor Pressure (hPa)": 11.5
+    },
+    {
+        "name": "広島",
+        "month": 5,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 19.9,
+        "Total Precipitation (mm)": 255.0,
+        "Sunshine Duration (hours)": 209.8,
+        "Average Wind Speed (m/s)": 3.3,
+        "Average Vapor Pressure (hPa)": 13.3,
+        "Average Cloud Cover (tenths)": 7.0
+    },
+    {
+        "name": "岡山",
+        "month": 5,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 19.2,
+        "Total Precipitation (mm)": 201.0,
+        "Sunshine Duration (hours)": 207.5,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 15.3
+    },
+    {
+        "name": "山口",
+        "month": 5,
+        "Average Temperature (°C)": 19.2,
+        "Total Precipitation (mm)": 293.5,
+        "Sunshine Duration (hours)": 200.1,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 15.8
+    },
+    {
+        "name": "浜田",
+        "month": 5,
+        "Average Temperature (°C)": 18.3,
+        "Total Precipitation (mm)": 257.0,
+        "Sunshine Duration (hours)": 212.8,
+        "Average Wind Speed (m/s)": 2.9,
+        "Average Vapor Pressure (hPa)": 15.7
+    },
+    {
+        "name": "松江",
+        "month": 5,
+        "Average Temperature (°C)": 18.4,
+        "Total Precipitation (mm)": 287.0,
+        "Sunshine Duration (hours)": 202.5,
+        "Average Wind Speed (m/s)": 3.0,
+        "Average Vapor Pressure (hPa)": 15.1
+    },
+    {
+        "name": "鳥取",
+        "month": 5,
+        "Average Temperature (°C)": 18.6,
+        "Total Precipitation (mm)": 222.0,
+        "Sunshine Duration (hours)": 203.9,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 14.6
+    },
+    {
+        "name": "米子",
+        "month": 5,
+        "Average Temperature (°C)": 18.6,
+        "Total Precipitation (mm)": 257.5,
+        "Sunshine Duration (hours)": 212.1,
+        "Average Wind Speed (m/s)": 3.0,
+        "Average Vapor Pressure (hPa)": 14.6
+    },
+    {
+        "name": "福山",
+        "month": 5,
+        "Average Temperature (°C)": 18.7,
+        "Total Precipitation (mm)": 187.5,
+        "Sunshine Duration (hours)": 201.9,
+        "Average Wind Speed (m/s)": 1.6,
+        "Average Vapor Pressure (hPa)": 15.5
+    },
+    {
+        "name": "呉",
+        "month": 5,
+        "Average Temperature (°C)": 19.4,
+        "Total Precipitation (mm)": 222.5,
+        "Sunshine Duration (hours)": 213.8,
+        "Average Wind Speed (m/s)": 2.2,
+        "Average Vapor Pressure (hPa)": 14.7
+    },
+    {
+        "name": "姫路",
+        "month": 5,
+        "Average Temperature (°C)": 18.5,
+        "Total Precipitation (mm)": 232.0,
+        "Sunshine Duration (hours)": 207.5,
+        "Average Wind Speed (m/s)": 2.7,
+        "Average Vapor Pressure (hPa)": 15.0
+    },
+    {
+        "name": "神戸",
+        "month": 5,
+        "Average Temperature (°C)": 19.8,
+        "Total Precipitation (mm)": 249.0,
+        "Sunshine Duration (hours)": 225.1,
+        "Average Wind Speed (m/s)": 3.5,
+        "Average Vapor Pressure (hPa)": 15.2
+    },
+    {
+        "name": "洲本",
+        "month": 5,
+        "Average Temperature (°C)": 18.8,
+        "Total Precipitation (mm)": 185.0,
+        "Sunshine Duration (hours)": 217.3,
+        "Average Wind Speed (m/s)": 3.9,
+        "Average Vapor Pressure (hPa)": 16.5
+    },
+    {
+        "name": "豊岡",
+        "month": 5,
+        "Average Temperature (°C)": 18.0,
+        "Total Precipitation (mm)": 211.5,
+        "Sunshine Duration (hours)": 199.1,
+        "Average Wind Speed (m/s)": 2.1,
+        "Average Vapor Pressure (hPa)": 14.5
+    },
+    {
+        "name": "京都",
+        "month": 5,
+        "Average Temperature (°C)": 19.7,
+        "Total Precipitation (mm)": 253.0,
+        "Sunshine Duration (hours)": 219.9,
+        "Average Wind Speed (m/s)": 2.2,
+        "Average Vapor Pressure (hPa)": 14.0
+    },
+    {
+        "name": "舞鶴",
+        "month": 5,
+        "Average Temperature (°C)": 18.0,
+        "Total Precipitation (mm)": 210.5,
+        "Sunshine Duration (hours)": 196.2,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 15.0
+    },
+    {
+        "name": "大阪",
+        "month": 5,
+        "Average Temperature (°C)": 20.0,
+        "Total Precipitation (mm)": 232.0,
+        "Sunshine Duration (hours)": 226.9,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 14.8,
+        "Average Cloud Cover (tenths)": 7.3
+    },
+    {
+        "name": "潮岬",
+        "month": 5,
+        "Average Temperature (°C)": 19.5,
+        "Total Precipitation (mm)": 267.0,
+        "Sunshine Duration (hours)": 218.7,
+        "Average Wind Speed (m/s)": 3.7,
+        "Average Vapor Pressure (hPa)": 17.7
+    },
+    {
+        "name": "和歌山",
+        "month": 5,
+        "Average Temperature (°C)": 19.7,
+        "Total Precipitation (mm)": 206.5,
+        "Sunshine Duration (hours)": 230.2,
+        "Average Wind Speed (m/s)": 4.1,
+        "Average Vapor Pressure (hPa)": 15.9
+    },
+    {
+        "name": "奈良",
+        "month": 5,
+        "Average Temperature (°C)": 19.0,
+        "Total Precipitation (mm)": 205.5,
+        "Sunshine Duration (hours)": 214.6,
+        "Average Wind Speed (m/s)": 2.1,
+        "Average Vapor Pressure (hPa)": 14.7
+    },
+    {
+        "name": "彦根",
+        "month": 5,
+        "Average Temperature (°C)": 18.2,
+        "Total Precipitation (mm)": 206.0,
+        "Sunshine Duration (hours)": 231.5,
+        "Average Wind Speed (m/s)": 2.8,
+        "Average Vapor Pressure (hPa)": 15.3
+    },
+    {
+        "name": "広島",
+        "month": 6,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 23.3,
+        "Total Precipitation (mm)": 219.0,
+        "Sunshine Duration (hours)": 131.0,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 19.5,
+        "Average Cloud Cover (tenths)": 8.2
+    },
+    {
+        "name": "岡山",
+        "month": 6,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 23.0,
+        "Total Precipitation (mm)": 143.5,
+        "Sunshine Duration (hours)": 135.9,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 21.8
+    },
+    {
+        "name": "山口",
+        "month": 6,
+        "Average Temperature (°C)": 22.7,
+        "Total Precipitation (mm)": 456.5,
+        "Sunshine Duration (hours)": 121.6,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 22.6
+    },
+    {
+        "name": "浜田",
+        "month": 6,
+        "Average Temperature (°C)": 22.4,
+        "Total Precipitation (mm)": 155.0,
+        "Sunshine Duration (hours)": 151.9,
+        "Average Wind Speed (m/s)": 2.8,
+        "Average Vapor Pressure (hPa)": 22.1
+    },
+    {
+        "name": "松江",
+        "month": 6,
+        "Average Temperature (°C)": 22.7,
+        "Total Precipitation (mm)": 175.5,
+        "Sunshine Duration (hours)": 153.3,
+        "Average Wind Speed (m/s)": 2.8,
+        "Average Vapor Pressure (hPa)": 22.2
+    },
+    {
+        "name": "鳥取",
+        "month": 6,
+        "Average Temperature (°C)": 22.9,
+        "Total Precipitation (mm)": 206.0,
+        "Sunshine Duration (hours)": 149.7,
+        "Average Wind Speed (m/s)": 2.9,
+        "Average Vapor Pressure (hPa)": 21.5
+    },
+    {
+        "name": "米子",
+        "month": 6,
+        "Average Temperature (°C)": 23.2,
+        "Total Precipitation (mm)": 160.5,
+        "Sunshine Duration (hours)": 155.3,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 21.6
+    },
+    {
+        "name": "福山",
+        "month": 6,
+        "Average Temperature (°C)": 22.6,
+        "Total Precipitation (mm)": 130.0,
+        "Sunshine Duration (hours)": 139.6,
+        "Average Wind Speed (m/s)": 1.6,
+        "Average Vapor Pressure (hPa)": 21.8
+    },
+    {
+        "name": "呉",
+        "month": 6,
+        "Average Temperature (°C)": 22.6,
+        "Total Precipitation (mm)": 250.0,
+        "Sunshine Duration (hours)": 139.0,
+        "Average Wind Speed (m/s)": 1.9,
+        "Average Vapor Pressure (hPa)": 21.1
+    },
+    {
+        "name": "姫路",
+        "month": 6,
+        "Average Temperature (°C)": 22.5,
+        "Total Precipitation (mm)": 207.5,
+        "Sunshine Duration (hours)": 128.4,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 21.5
+    },
+    {
+        "name": "神戸",
+        "month": 6,
+        "Average Temperature (°C)": 23.4,
+        "Total Precipitation (mm)": 223.5,
+        "Sunshine Duration (hours)": 131.3,
+        "Average Wind Speed (m/s)": 3.1,
+        "Average Vapor Pressure (hPa)": 21.9
+    },
+    {
+        "name": "洲本",
+        "month": 6,
+        "Average Temperature (°C)": 22.5,
+        "Total Precipitation (mm)": 239.0,
+        "Sunshine Duration (hours)": 141.4,
+        "Average Wind Speed (m/s)": 3.1,
+        "Average Vapor Pressure (hPa)": 22.4
+    },
+    {
+        "name": "豊岡",
+        "month": 6,
+        "Average Temperature (°C)": 22.5,
+        "Total Precipitation (mm)": 194.5,
+        "Sunshine Duration (hours)": 135.1,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 21.3
+    },
+    {
+        "name": "京都",
+        "month": 6,
+        "Average Temperature (°C)": 23.6,
+        "Total Precipitation (mm)": 228.0,
+        "Sunshine Duration (hours)": 107.9,
+        "Average Wind Speed (m/s)": 1.9,
+        "Average Vapor Pressure (hPa)": 20.7
+    },
+    {
+        "name": "舞鶴",
+        "month": 6,
+        "Average Temperature (°C)": 22.1,
+        "Total Precipitation (mm)": 238.0,
+        "Sunshine Duration (hours)": 123.9,
+        "Average Wind Speed (m/s)": 2.1,
+        "Average Vapor Pressure (hPa)": 22.1
+    },
+    {
+        "name": "大阪",
+        "month": 6,
+        "Average Temperature (°C)": 23.8,
+        "Total Precipitation (mm)": 262.0,
+        "Sunshine Duration (hours)": 130.9,
+        "Average Wind Speed (m/s)": 2.1,
+        "Average Vapor Pressure (hPa)": 21.3,
+        "Average Cloud Cover (tenths)": 8.3
+    },
+    {
+        "name": "潮岬",
+        "month": 6,
+        "Average Temperature (°C)": 22.6,
+        "Total Precipitation (mm)": 521.5,
+        "Sunshine Duration (hours)": 114.3,
+        "Average Wind Speed (m/s)": 3.9,
+        "Average Vapor Pressure (hPa)": 24.1
+    },
+    {
+        "name": "和歌山",
+        "month": 6,
+        "Average Temperature (°C)": 23.3,
+        "Total Precipitation (mm)": 305.5,
+        "Sunshine Duration (hours)": 132.6,
+        "Average Wind Speed (m/s)": 3.1,
+        "Average Vapor Pressure (hPa)": 22.2
+    },
+    {
+        "name": "奈良",
+        "month": 6,
+        "Average Temperature (°C)": 22.9,
+        "Total Precipitation (mm)": 235.0,
+        "Sunshine Duration (hours)": 118.3,
+        "Average Wind Speed (m/s)": 1.9,
+        "Average Vapor Pressure (hPa)": 21.2
+    },
+    {
+        "name": "彦根",
+        "month": 6,
+        "Average Temperature (°C)": 22.3,
+        "Total Precipitation (mm)": 249.0,
+        "Sunshine Duration (hours)": 135.7,
+        "Average Wind Speed (m/s)": 2.2,
+        "Average Vapor Pressure (hPa)": 21.6
+    },
+    {
+        "name": "広島",
+        "month": 7,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 27.9,
+        "Total Precipitation (mm)": 307.5,
+        "Sunshine Duration (hours)": 198.0,
+        "Average Wind Speed (m/s)": 2.9,
+        "Average Vapor Pressure (hPa)": 25.3,
+        "Average Cloud Cover (tenths)": 7.2
+    },
+    {
+        "name": "岡山",
+        "month": 7,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 27.9,
+        "Total Precipitation (mm)": 164.0,
+        "Sunshine Duration (hours)": 207.3,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 28.6
+    },
+    {
+        "name": "山口",
+        "month": 7,
+        "Average Temperature (°C)": 27.1,
+        "Total Precipitation (mm)": 423.0,
+        "Sunshine Duration (hours)": 181.9,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 28.9
+    },
+    {
+        "name": "浜田",
+        "month": 7,
+        "Average Temperature (°C)": 27.3,
+        "Total Precipitation (mm)": 172.5,
+        "Sunshine Duration (hours)": 202.1,
+        "Average Wind Speed (m/s)": 3.1,
+        "Average Vapor Pressure (hPa)": 28.4
+    },
+    {
+        "name": "松江",
+        "month": 7,
+        "Average Temperature (°C)": 27.5,
+        "Total Precipitation (mm)": 326.0,
+        "Sunshine Duration (hours)": 193.3,
+        "Average Wind Speed (m/s)": 2.8,
+        "Average Vapor Pressure (hPa)": 28.7
+    },
+    {
+        "name": "鳥取",
+        "month": 7,
+        "Average Temperature (°C)": 28.1,
+        "Total Precipitation (mm)": 256.0,
+        "Sunshine Duration (hours)": 220.9,
+        "Average Wind Speed (m/s)": 3.0,
+        "Average Vapor Pressure (hPa)": 27.7
+    },
+    {
+        "name": "米子",
+        "month": 7,
+        "Average Temperature (°C)": 28.0,
+        "Total Precipitation (mm)": 248.0,
+        "Sunshine Duration (hours)": 203.2,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 28.0
+    },
+    {
+        "name": "福山",
+        "month": 7,
+        "Average Temperature (°C)": 27.3,
+        "Total Precipitation (mm)": 144.0,
+        "Sunshine Duration (hours)": 222.4,
+        "Average Wind Speed (m/s)": 1.7,
+        "Average Vapor Pressure (hPa)": 28.5
+    },
+    {
+        "name": "呉",
+        "month": 7,
+        "Average Temperature (°C)": 27.3,
+        "Total Precipitation (mm)": 244.0,
+        "Sunshine Duration (hours)": 213.2,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 27.4
+    },
+    {
+        "name": "姫路",
+        "month": 7,
+        "Average Temperature (°C)": 27.4,
+        "Total Precipitation (mm)": 115.0,
+        "Sunshine Duration (hours)": 219.9,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 27.9
+    },
+    {
+        "name": "神戸",
+        "month": 7,
+        "Average Temperature (°C)": 28.0,
+        "Total Precipitation (mm)": 93.5,
+        "Sunshine Duration (hours)": 233.1,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 28.6
+    },
+    {
+        "name": "洲本",
+        "month": 7,
+        "Average Temperature (°C)": 27.4,
+        "Total Precipitation (mm)": 64.5,
+        "Sunshine Duration (hours)": 247.5,
+        "Average Wind Speed (m/s)": 4.2,
+        "Average Vapor Pressure (hPa)": 29.0
+    },
+    {
+        "name": "豊岡",
+        "month": 7,
+        "Average Temperature (°C)": 27.5,
+        "Total Precipitation (mm)": 189.5,
+        "Sunshine Duration (hours)": 210.0,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 27.8
+    },
+    {
+        "name": "京都",
+        "month": 7,
+        "Average Temperature (°C)": 29.1,
+        "Total Precipitation (mm)": 74.5,
+        "Sunshine Duration (hours)": 210.5,
+        "Average Wind Speed (m/s)": 2.0,
+        "Average Vapor Pressure (hPa)": 26.4
+    },
+    {
+        "name": "舞鶴",
+        "month": 7,
+        "Average Temperature (°C)": 27.5,
+        "Total Precipitation (mm)": 188.5,
+        "Sunshine Duration (hours)": 218.1,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 28.1
+    },
+    {
+        "name": "大阪",
+        "month": 7,
+        "Average Temperature (°C)": 28.9,
+        "Total Precipitation (mm)": 100.5,
+        "Sunshine Duration (hours)": 242.0,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 27.4,
+        "Average Cloud Cover (tenths)": 6.4
+    },
+    {
+        "name": "潮岬",
+        "month": 7,
+        "Average Temperature (°C)": 26.3,
+        "Total Precipitation (mm)": 112.0,
+        "Sunshine Duration (hours)": 227.0,
+        "Average Wind Speed (m/s)": 4.0,
+        "Average Vapor Pressure (hPa)": 30.7
+    },
+    {
+        "name": "和歌山",
+        "month": 7,
+        "Average Temperature (°C)": 28.3,
+        "Total Precipitation (mm)": 62.5,
+        "Sunshine Duration (hours)": 259.0,
+        "Average Wind Speed (m/s)": 4.1,
+        "Average Vapor Pressure (hPa)": 28.8
+    },
+    {
+        "name": "奈良",
+        "month": 7,
+        "Average Temperature (°C)": 28.2,
+        "Total Precipitation (mm)": 114.5,
+        "Sunshine Duration (hours)": 217.7,
+        "Average Wind Speed (m/s)": 2.0,
+        "Average Vapor Pressure (hPa)": 26.8
+    },
+    {
+        "name": "彦根",
+        "month": 7,
+        "Average Temperature (°C)": 28.0,
+        "Total Precipitation (mm)": 129.0,
+        "Sunshine Duration (hours)": 245.6,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 27.8
+    },
+    {
+        "name": "広島",
+        "month": 8,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 30.0,
+        "Total Precipitation (mm)": 48.5,
+        "Sunshine Duration (hours)": 211.0,
+        "Average Wind Speed (m/s)": 3.1,
+        "Average Vapor Pressure (hPa)": 26.2,
+        "Average Cloud Cover (tenths)": 6.7
+    },
+    {
+        "name": "岡山",
+        "month": 8,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 29.5,
+        "Total Precipitation (mm)": 86.5,
+        "Sunshine Duration (hours)": 237.5,
+        "Average Wind Speed (m/s)": 3.6,
+        "Average Vapor Pressure (hPa)": 30.3
+    },
+    {
+        "name": "山口",
+        "month": 8,
+        "Average Temperature (°C)": 29.0,
+        "Total Precipitation (mm)": 121.5,
+        "Sunshine Duration (hours)": 205.0,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 30.0
+    },
+    {
+        "name": "浜田",
+        "month": 8,
+        "Average Temperature (°C)": 28.5,
+        "Total Precipitation (mm)": 44.0,
+        "Sunshine Duration (hours)": 213.3,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 30.0
+    },
+    {
+        "name": "松江",
+        "month": 8,
+        "Average Temperature (°C)": 29.4,
+        "Total Precipitation (mm)": 117.0,
+        "Sunshine Duration (hours)": 214.4,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 30.2
+    },
+    {
+        "name": "鳥取",
+        "month": 8,
+        "Average Temperature (°C)": 30.0,
+        "Total Precipitation (mm)": 266.0,
+        "Sunshine Duration (hours)": 252.8,
+        "Average Wind Speed (m/s)": 3.7,
+        "Average Vapor Pressure (hPa)": 29.4
+    },
+    {
+        "name": "米子",
+        "month": 8,
+        "Average Temperature (°C)": 29.8,
+        "Total Precipitation (mm)": 90.0,
+        "Sunshine Duration (hours)": 226.7,
+        "Average Wind Speed (m/s)": 2.9,
+        "Average Vapor Pressure (hPa)": 29.5
+    },
+    {
+        "name": "福山",
+        "month": 8,
+        "Average Temperature (°C)": 29.2,
+        "Total Precipitation (mm)": 87.5,
+        "Sunshine Duration (hours)": 213.0,
+        "Average Wind Speed (m/s)": 2.0,
+        "Average Vapor Pressure (hPa)": 30.5
+    },
+    {
+        "name": "呉",
+        "month": 8,
+        "Average Temperature (°C)": 29.3,
+        "Total Precipitation (mm)": 38.5,
+        "Sunshine Duration (hours)": 236.0,
+        "Average Wind Speed (m/s)": 2.7,
+        "Average Vapor Pressure (hPa)": 28.6
+    },
+    {
+        "name": "姫路",
+        "month": 8,
+        "Average Temperature (°C)": 28.9,
+        "Total Precipitation (mm)": 236.5,
+        "Sunshine Duration (hours)": 234.0,
+        "Average Wind Speed (m/s)": 3.1,
+        "Average Vapor Pressure (hPa)": 29.4
+    },
+    {
+        "name": "神戸",
+        "month": 8,
+        "Average Temperature (°C)": 29.7,
+        "Total Precipitation (mm)": 200.0,
+        "Sunshine Duration (hours)": 241.0,
+        "Average Wind Speed (m/s)": 4.2,
+        "Average Vapor Pressure (hPa)": 30.0
+    },
+    {
+        "name": "洲本",
+        "month": 8,
+        "Average Temperature (°C)": 28.4,
+        "Total Precipitation (mm)": 264.5,
+        "Sunshine Duration (hours)": 237.9,
+        "Average Wind Speed (m/s)": 3.9,
+        "Average Vapor Pressure (hPa)": 30.6
+    },
+    {
+        "name": "豊岡",
+        "month": 8,
+        "Average Temperature (°C)": 29.9,
+        "Total Precipitation (mm)": 190.0,
+        "Sunshine Duration (hours)": 242.0,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 29.3
+    },
+    {
+        "name": "京都",
+        "month": 8,
+        "Average Temperature (°C)": 30.3,
+        "Total Precipitation (mm)": 195.5,
+        "Sunshine Duration (hours)": 187.0,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 27.9
+    },
+    {
+        "name": "舞鶴",
+        "month": 8,
+        "Average Temperature (°C)": 29.6,
+        "Total Precipitation (mm)": 182.0,
+        "Sunshine Duration (hours)": 229.1,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 29.5
+    },
+    {
+        "name": "大阪",
+        "month": 8,
+        "Average Temperature (°C)": 29.9,
+        "Total Precipitation (mm)": 163.5,
+        "Sunshine Duration (hours)": 219.4,
+        "Average Wind Speed (m/s)": 2.7,
+        "Average Vapor Pressure (hPa)": 29.0,
+        "Average Cloud Cover (tenths)": 6.5
+    },
+    {
+        "name": "潮岬",
+        "month": 8,
+        "Average Temperature (°C)": 27.6,
+        "Total Precipitation (mm)": 461.5,
+        "Sunshine Duration (hours)": 213.0,
+        "Average Wind Speed (m/s)": 4.1,
+        "Average Vapor Pressure (hPa)": 32.6
+    },
+    {
+        "name": "和歌山",
+        "month": 8,
+        "Average Temperature (°C)": 29.1,
+        "Total Precipitation (mm)": 133.0,
+        "Sunshine Duration (hours)": 240.8,
+        "Average Wind Speed (m/s)": 3.9,
+        "Average Vapor Pressure (hPa)": 30.4
+    },
+    {
+        "name": "奈良",
+        "month": 8,
+        "Average Temperature (°C)": 28.9,
+        "Total Precipitation (mm)": 197.0,
+        "Sunshine Duration (hours)": 206.0,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 28.5
+    },
+    {
+        "name": "彦根",
+        "month": 8,
+        "Average Temperature (°C)": 29.3,
+        "Total Precipitation (mm)": 171.5,
+        "Sunshine Duration (hours)": 218.2,
+        "Average Wind Speed (m/s)": 2.7,
+        "Average Vapor Pressure (hPa)": 29.5
+    },
+    {
+        "name": "広島",
+        "month": 9,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 27.2,
+        "Total Precipitation (mm)": 115.0,
+        "Sunshine Duration (hours)": 157.5,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 22.7,
+        "Average Cloud Cover (tenths)": 7.1
+    },
+    {
+        "name": "岡山",
+        "month": 9,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 26.9,
+        "Total Precipitation (mm)": 52.5,
+        "Sunshine Duration (hours)": 155.2,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 26.4
+    },
+    {
+        "name": "山口",
+        "month": 9,
+        "Average Temperature (°C)": 25.9,
+        "Total Precipitation (mm)": 145.0,
+        "Sunshine Duration (hours)": 150.3,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 26.5
+    },
+    {
+        "name": "浜田",
+        "month": 9,
+        "Average Temperature (°C)": 25.0,
+        "Total Precipitation (mm)": 263.5,
+        "Sunshine Duration (hours)": 156.0,
+        "Average Wind Speed (m/s)": 2.7,
+        "Average Vapor Pressure (hPa)": 26.2
+    },
+    {
+        "name": "松江",
+        "month": 9,
+        "Average Temperature (°C)": 25.2,
+        "Total Precipitation (mm)": 184.0,
+        "Sunshine Duration (hours)": 123.6,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 26.6
+    },
+    {
+        "name": "鳥取",
+        "month": 9,
+        "Average Temperature (°C)": 25.6,
+        "Total Precipitation (mm)": 133.5,
+        "Sunshine Duration (hours)": 125.4,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 26.6
+    },
+    {
+        "name": "米子",
+        "month": 9,
+        "Average Temperature (°C)": 25.6,
+        "Total Precipitation (mm)": 209.5,
+        "Sunshine Duration (hours)": 128.7,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 26.3
+    },
+    {
+        "name": "福山",
+        "month": 9,
+        "Average Temperature (°C)": 26.7,
+        "Total Precipitation (mm)": 46.0,
+        "Sunshine Duration (hours)": 167.0,
+        "Average Wind Speed (m/s)": 1.6,
+        "Average Vapor Pressure (hPa)": 26.4
+    },
+    {
+        "name": "呉",
+        "month": 9,
+        "Average Temperature (°C)": 27.0,
+        "Total Precipitation (mm)": 30.0,
+        "Sunshine Duration (hours)": 151.9,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 25.0
+    },
+    {
+        "name": "姫路",
+        "month": 9,
+        "Average Temperature (°C)": 26.7,
+        "Total Precipitation (mm)": 84.5,
+        "Sunshine Duration (hours)": 177.4,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 25.7
+    },
+    {
+        "name": "神戸",
+        "month": 9,
+        "Average Temperature (°C)": 27.9,
+        "Total Precipitation (mm)": 32.0,
+        "Sunshine Duration (hours)": 191.5,
+        "Average Wind Speed (m/s)": 3.5,
+        "Average Vapor Pressure (hPa)": 25.9
+    },
+    {
+        "name": "洲本",
+        "month": 9,
+        "Average Temperature (°C)": 26.3,
+        "Total Precipitation (mm)": 84.0,
+        "Sunshine Duration (hours)": 183.0,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 27.2
+    },
+    {
+        "name": "豊岡",
+        "month": 9,
+        "Average Temperature (°C)": 25.5,
+        "Total Precipitation (mm)": 172.0,
+        "Sunshine Duration (hours)": 123.4,
+        "Average Wind Speed (m/s)": 1.6,
+        "Average Vapor Pressure (hPa)": 26.6
+    },
+    {
+        "name": "京都",
+        "month": 9,
+        "Average Temperature (°C)": 27.7,
+        "Total Precipitation (mm)": 70.0,
+        "Sunshine Duration (hours)": 153.9,
+        "Average Wind Speed (m/s)": 1.9,
+        "Average Vapor Pressure (hPa)": 24.3
+    },
+    {
+        "name": "舞鶴",
+        "month": 9,
+        "Average Temperature (°C)": 25.7,
+        "Total Precipitation (mm)": 202.5,
+        "Sunshine Duration (hours)": 139.7,
+        "Average Wind Speed (m/s)": 2.2,
+        "Average Vapor Pressure (hPa)": 26.9
+    },
+    {
+        "name": "大阪",
+        "month": 9,
+        "Average Temperature (°C)": 27.9,
+        "Total Precipitation (mm)": 44.0,
+        "Sunshine Duration (hours)": 188.0,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 25.0,
+        "Average Cloud Cover (tenths)": 7.0
+    },
+    {
+        "name": "潮岬",
+        "month": 9,
+        "Average Temperature (°C)": 26.3,
+        "Total Precipitation (mm)": 222.0,
+        "Sunshine Duration (hours)": 192.0,
+        "Average Wind Speed (m/s)": 3.5,
+        "Average Vapor Pressure (hPa)": 29.2
+    },
+    {
+        "name": "和歌山",
+        "month": 9,
+        "Average Temperature (°C)": 27.2,
+        "Total Precipitation (mm)": 51.0,
+        "Sunshine Duration (hours)": 211.8,
+        "Average Wind Speed (m/s)": 3.5,
+        "Average Vapor Pressure (hPa)": 26.6
+    },
+    {
+        "name": "奈良",
+        "month": 9,
+        "Average Temperature (°C)": 26.4,
+        "Total Precipitation (mm)": 116.5,
+        "Sunshine Duration (hours)": 171.5,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 25.3
+    },
+    {
+        "name": "彦根",
+        "month": 9,
+        "Average Temperature (°C)": 26.6,
+        "Total Precipitation (mm)": 60.0,
+        "Sunshine Duration (hours)": 181.4,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 26.3
+    },
+    {
+        "name": "広島",
+        "month": 10,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 18.9,
+        "Total Precipitation (mm)": 8.5,
+        "Sunshine Duration (hours)": 221.5,
+        "Average Wind Speed (m/s)": 3.7,
+        "Average Vapor Pressure (hPa)": 11.7,
+        "Average Cloud Cover (tenths)": 5.1
+    },
+    {
+        "name": "岡山",
+        "month": 10,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 18.0,
+        "Total Precipitation (mm)": 29.5,
+        "Sunshine Duration (hours)": 208.5,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 14.0
+    },
+    {
+        "name": "山口",
+        "month": 10,
+        "Average Temperature (°C)": 17.5,
+        "Total Precipitation (mm)": 4.5,
+        "Sunshine Duration (hours)": 212.8,
+        "Average Wind Speed (m/s)": 1.7,
+        "Average Vapor Pressure (hPa)": 14.2
+    },
+    {
+        "name": "浜田",
+        "month": 10,
+        "Average Temperature (°C)": 18.4,
+        "Total Precipitation (mm)": 28.0,
+        "Sunshine Duration (hours)": 198.7,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 14.3
+    },
+    {
+        "name": "松江",
+        "month": 10,
+        "Average Temperature (°C)": 17.8,
+        "Total Precipitation (mm)": 57.5,
+        "Sunshine Duration (hours)": 197.7,
+        "Average Wind Speed (m/s)": 2.4,
+        "Average Vapor Pressure (hPa)": 14.8
+    },
+    {
+        "name": "鳥取",
+        "month": 10,
+        "Average Temperature (°C)": 17.4,
+        "Total Precipitation (mm)": 101.5,
+        "Sunshine Duration (hours)": 185.1,
+        "Average Wind Speed (m/s)": 2.8,
+        "Average Vapor Pressure (hPa)": 14.7
+    },
+    {
+        "name": "米子",
+        "month": 10,
+        "Average Temperature (°C)": 17.7,
+        "Total Precipitation (mm)": 51.5,
+        "Sunshine Duration (hours)": 179.2,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 14.2
+    },
+    {
+        "name": "福山",
+        "month": 10,
+        "Average Temperature (°C)": 17.9,
+        "Total Precipitation (mm)": 22.0,
+        "Sunshine Duration (hours)": 218.1,
+        "Average Wind Speed (m/s)": 1.6,
+        "Average Vapor Pressure (hPa)": 14.1
+    },
+    {
+        "name": "呉",
+        "month": 10,
+        "Average Temperature (°C)": 19.4,
+        "Total Precipitation (mm)": 22.0,
+        "Sunshine Duration (hours)": 221.5,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 13.2
+    },
+    {
+        "name": "姫路",
+        "month": 10,
+        "Average Temperature (°C)": 17.8,
+        "Total Precipitation (mm)": 40.5,
+        "Sunshine Duration (hours)": 210.7,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 13.9
+    },
+    {
+        "name": "神戸",
+        "month": 10,
+        "Average Temperature (°C)": 19.6,
+        "Total Precipitation (mm)": 49.5,
+        "Sunshine Duration (hours)": 216.6,
+        "Average Wind Speed (m/s)": 3.3,
+        "Average Vapor Pressure (hPa)": 14.0
+    },
+    {
+        "name": "洲本",
+        "month": 10,
+        "Average Temperature (°C)": 18.3,
+        "Total Precipitation (mm)": 60.5,
+        "Sunshine Duration (hours)": 195.4,
+        "Average Wind Speed (m/s)": 2.6,
+        "Average Vapor Pressure (hPa)": 15.1
+    },
+    {
+        "name": "豊岡",
+        "month": 10,
+        "Average Temperature (°C)": 16.6,
+        "Total Precipitation (mm)": 99.5,
+        "Sunshine Duration (hours)": 161.2,
+        "Average Wind Speed (m/s)": 1.5,
+        "Average Vapor Pressure (hPa)": 14.8
+    },
+    {
+        "name": "京都",
+        "month": 10,
+        "Average Temperature (°C)": 18.2,
+        "Total Precipitation (mm)": 60.5,
+        "Sunshine Duration (hours)": 199.8,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 13.7
+    },
+    {
+        "name": "舞鶴",
+        "month": 10,
+        "Average Temperature (°C)": 16.7,
+        "Total Precipitation (mm)": 68.5,
+        "Sunshine Duration (hours)": 162.0,
+        "Average Wind Speed (m/s)": 1.9,
+        "Average Vapor Pressure (hPa)": 15.2
+    },
+    {
+        "name": "大阪",
+        "month": 10,
+        "Average Temperature (°C)": 19.3,
+        "Total Precipitation (mm)": 77.5,
+        "Sunshine Duration (hours)": 213.7,
+        "Average Wind Speed (m/s)": 2.1,
+        "Average Vapor Pressure (hPa)": 13.8,
+        "Average Cloud Cover (tenths)": 5.6
+    },
+    {
+        "name": "潮岬",
+        "month": 10,
+        "Average Temperature (°C)": 20.0,
+        "Total Precipitation (mm)": 189.5,
+        "Sunshine Duration (hours)": 240.8,
+        "Average Wind Speed (m/s)": 3.4,
+        "Average Vapor Pressure (hPa)": 15.9
+    },
+    {
+        "name": "和歌山",
+        "month": 10,
+        "Average Temperature (°C)": 19.2,
+        "Total Precipitation (mm)": 69.5,
+        "Sunshine Duration (hours)": 212.9,
+        "Average Wind Speed (m/s)": 3.5,
+        "Average Vapor Pressure (hPa)": 14.6
+    },
+    {
+        "name": "奈良",
+        "month": 10,
+        "Average Temperature (°C)": 17.3,
+        "Total Precipitation (mm)": 91.5,
+        "Sunshine Duration (hours)": 191.2,
+        "Average Wind Speed (m/s)": 1.9,
+        "Average Vapor Pressure (hPa)": 14.1
+    },
+    {
+        "name": "彦根",
+        "month": 10,
+        "Average Temperature (°C)": 17.5,
+        "Total Precipitation (mm)": 79.0,
+        "Sunshine Duration (hours)": 195.3,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 14.7
+    },
+    {
+        "name": "広島",
+        "month": 11,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 14.0,
+        "Total Precipitation (mm)": 33.0,
+        "Sunshine Duration (hours)": 183.1,
+        "Average Wind Speed (m/s)": 3.5,
+        "Average Vapor Pressure (hPa)": 9.7,
+        "Average Cloud Cover (tenths)": 5.2
+    },
+    {
+        "name": "岡山",
+        "month": 11,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 12.9,
+        "Total Precipitation (mm)": 35.5,
+        "Sunshine Duration (hours)": 171.1,
+        "Average Wind Speed (m/s)": 2.8,
+        "Average Vapor Pressure (hPa)": 11.3
+    },
+    {
+        "name": "山口",
+        "month": 11,
+        "Average Temperature (°C)": 12.4,
+        "Total Precipitation (mm)": 48.0,
+        "Sunshine Duration (hours)": 171.8,
+        "Average Wind Speed (m/s)": 1.8,
+        "Average Vapor Pressure (hPa)": 11.3
+    },
+    {
+        "name": "浜田",
+        "month": 11,
+        "Average Temperature (°C)": 14.2,
+        "Total Precipitation (mm)": 122.0,
+        "Sunshine Duration (hours)": 126.3,
+        "Average Wind Speed (m/s)": 4.5,
+        "Average Vapor Pressure (hPa)": 11.3
+    },
+    {
+        "name": "松江",
+        "month": 11,
+        "Average Temperature (°C)": 13.0,
+        "Total Precipitation (mm)": 151.0,
+        "Sunshine Duration (hours)": 126.4,
+        "Average Wind Speed (m/s)": 3.6,
+        "Average Vapor Pressure (hPa)": 11.7
+    },
+    {
+        "name": "鳥取",
+        "month": 11,
+        "Average Temperature (°C)": 13.2,
+        "Total Precipitation (mm)": 166.0,
+        "Sunshine Duration (hours)": 148.8,
+        "Average Wind Speed (m/s)": 3.4,
+        "Average Vapor Pressure (hPa)": 11.2
+    },
+    {
+        "name": "米子",
+        "month": 11,
+        "Average Temperature (°C)": 13.2,
+        "Total Precipitation (mm)": 160.5,
+        "Sunshine Duration (hours)": 130.8,
+        "Average Wind Speed (m/s)": 2.7,
+        "Average Vapor Pressure (hPa)": 11.1
+    },
+    {
+        "name": "福山",
+        "month": 11,
+        "Average Temperature (°C)": 12.9,
+        "Total Precipitation (mm)": 17.5,
+        "Sunshine Duration (hours)": 173.3,
+        "Average Wind Speed (m/s)": 1.7,
+        "Average Vapor Pressure (hPa)": 11.3
+    },
+    {
+        "name": "呉",
+        "month": 11,
+        "Average Temperature (°C)": 14.7,
+        "Total Precipitation (mm)": 49.5,
+        "Sunshine Duration (hours)": 181.9,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 11.0
+    },
+    {
+        "name": "姫路",
+        "month": 11,
+        "Average Temperature (°C)": 12.5,
+        "Total Precipitation (mm)": 108.0,
+        "Sunshine Duration (hours)": 174.9,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 11.1
+    },
+    {
+        "name": "神戸",
+        "month": 11,
+        "Average Temperature (°C)": 14.7,
+        "Total Precipitation (mm)": 84.0,
+        "Sunshine Duration (hours)": 180.6,
+        "Average Wind Speed (m/s)": 3.5,
+        "Average Vapor Pressure (hPa)": 11.2
+    },
+    {
+        "name": "洲本",
+        "month": 11,
+        "Average Temperature (°C)": 13.5,
+        "Total Precipitation (mm)": 135.0,
+        "Sunshine Duration (hours)": 146.8,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 12.2
+    },
+    {
+        "name": "豊岡",
+        "month": 11,
+        "Average Temperature (°C)": 12.0,
+        "Total Precipitation (mm)": 187.5,
+        "Sunshine Duration (hours)": 126.4,
+        "Average Wind Speed (m/s)": 1.6,
+        "Average Vapor Pressure (hPa)": 11.4
+    },
+    {
+        "name": "京都",
+        "month": 11,
+        "Average Temperature (°C)": 13.3,
+        "Total Precipitation (mm)": 63.0,
+        "Sunshine Duration (hours)": 170.7,
+        "Average Wind Speed (m/s)": 1.7,
+        "Average Vapor Pressure (hPa)": 10.8
+    },
+    {
+        "name": "舞鶴",
+        "month": 11,
+        "Average Temperature (°C)": 12.1,
+        "Total Precipitation (mm)": 193.0,
+        "Sunshine Duration (hours)": 140.1,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 12.0
+    },
+    {
+        "name": "大阪",
+        "month": 11,
+        "Average Temperature (°C)": 14.4,
+        "Total Precipitation (mm)": 92.5,
+        "Sunshine Duration (hours)": 191.4,
+        "Average Wind Speed (m/s)": 2.1,
+        "Average Vapor Pressure (hPa)": 11.0,
+        "Average Cloud Cover (tenths)": 4.6
+    },
+    {
+        "name": "潮岬",
+        "month": 11,
+        "Average Temperature (°C)": 16.0,
+        "Total Precipitation (mm)": 134.5,
+        "Sunshine Duration (hours)": 194.9,
+        "Average Wind Speed (m/s)": 3.8,
+        "Average Vapor Pressure (hPa)": 13.0
+    },
+    {
+        "name": "和歌山",
+        "month": 11,
+        "Average Temperature (°C)": 14.2,
+        "Total Precipitation (mm)": 87.5,
+        "Sunshine Duration (hours)": 158.3,
+        "Average Wind Speed (m/s)": 3.9,
+        "Average Vapor Pressure (hPa)": 11.4
+    },
+    {
+        "name": "奈良",
+        "month": 11,
+        "Average Temperature (°C)": 12.6,
+        "Total Precipitation (mm)": 88.0,
+        "Sunshine Duration (hours)": 170.3,
+        "Average Wind Speed (m/s)": 1.9,
+        "Average Vapor Pressure (hPa)": 10.9
+    },
+    {
+        "name": "彦根",
+        "month": 11,
+        "Average Temperature (°C)": 12.6,
+        "Total Precipitation (mm)": 83.5,
+        "Sunshine Duration (hours)": 143.0,
+        "Average Wind Speed (m/s)": 3.2,
+        "Average Vapor Pressure (hPa)": 11.5
+    },
+    {
+        "name": "広島",
+        "month": 12,
+        "latitude": 34.3853,
+        "longitude": 132.4553,
+        "Average Temperature (°C)": 8.2,
+        "Total Precipitation (mm)": 56.0,
+        "Sunshine Duration (hours)": 149.2,
+        "Average Wind Speed (m/s)": 3.3,
+        "Average Vapor Pressure (hPa)": 7.1,
+        "Average Cloud Cover (tenths)": 6.5
+    },
+    {
+        "name": "岡山",
+        "month": 12,
+        "latitude": 34.6618,
+        "longitude": 133.9344,
+        "Average Temperature (°C)": 7.3,
+        "Total Precipitation (mm)": 44.5,
+        "Sunshine Duration (hours)": 159.3,
+        "Average Wind Speed (m/s)": 2.9,
+        "Average Vapor Pressure (hPa)": 7.8
+    },
+    {
+        "name": "山口",
+        "month": 12,
+        "Average Temperature (°C)": 7.2,
+        "Total Precipitation (mm)": 83.0,
+        "Sunshine Duration (hours)": 117.0,
+        "Average Wind Speed (m/s)": 1.7,
+        "Average Vapor Pressure (hPa)": 8.5
+    },
+    {
+        "name": "浜田",
+        "month": 12,
+        "Average Temperature (°C)": 9.3,
+        "Total Precipitation (mm)": 129.5,
+        "Sunshine Duration (hours)": 98.5,
+        "Average Wind Speed (m/s)": 4.5,
+        "Average Vapor Pressure (hPa)": 8.6
+    },
+    {
+        "name": "松江",
+        "month": 12,
+        "Average Temperature (°C)": 7.7,
+        "Total Precipitation (mm)": 116.5,
+        "Sunshine Duration (hours)": 91.9,
+        "Average Wind Speed (m/s)": 3.7,
+        "Average Vapor Pressure (hPa)": 8.5
+    },
+    {
+        "name": "鳥取",
+        "month": 12,
+        "Average Temperature (°C)": 8.0,
+        "Total Precipitation (mm)": 102.0,
+        "Sunshine Duration (hours)": 103.6,
+        "Average Wind Speed (m/s)": 3.4,
+        "Average Vapor Pressure (hPa)": 8.4
+    },
+    {
+        "name": "米子",
+        "month": 12,
+        "Average Temperature (°C)": 8.2,
+        "Total Precipitation (mm)": 97.0,
+        "Sunshine Duration (hours)": 95.2,
+        "Average Wind Speed (m/s)": 2.8,
+        "Average Vapor Pressure (hPa)": 8.3
+    },
+    {
+        "name": "福山",
+        "month": 12,
+        "Average Temperature (°C)": 7.2,
+        "Total Precipitation (mm)": 45.5,
+        "Sunshine Duration (hours)": 153.5,
+        "Average Wind Speed (m/s)": 1.6,
+        "Average Vapor Pressure (hPa)": 7.9
+    },
+    {
+        "name": "呉",
+        "month": 12,
+        "Average Temperature (°C)": 8.9,
+        "Total Precipitation (mm)": 52.0,
+        "Sunshine Duration (hours)": 149.4,
+        "Average Wind Speed (m/s)": 2.9,
+        "Average Vapor Pressure (hPa)": 7.9
+    },
+    {
+        "name": "姫路",
+        "month": 12,
+        "Average Temperature (°C)": 7.5,
+        "Total Precipitation (mm)": 30.5,
+        "Sunshine Duration (hours)": 177.4,
+        "Average Wind Speed (m/s)": 2.5,
+        "Average Vapor Pressure (hPa)": 7.8
+    },
+    {
+        "name": "神戸",
+        "month": 12,
+        "Average Temperature (°C)": 9.7,
+        "Total Precipitation (mm)": 19.0,
+        "Sunshine Duration (hours)": 185.3,
+        "Average Wind Speed (m/s)": 3.8,
+        "Average Vapor Pressure (hPa)": 7.8
+    },
+    {
+        "name": "洲本",
+        "month": 12,
+        "Average Temperature (°C)": 8.7,
+        "Total Precipitation (mm)": 19.5,
+        "Sunshine Duration (hours)": 144.0,
+        "Average Wind Speed (m/s)": 3.6,
+        "Average Vapor Pressure (hPa)": 8.7
+    },
+    {
+        "name": "豊岡",
+        "month": 12,
+        "Average Temperature (°C)": 6.9,
+        "Total Precipitation (mm)": 119.5,
+        "Sunshine Duration (hours)": 96.5,
+        "Average Wind Speed (m/s)": 1.5,
+        "Average Vapor Pressure (hPa)": 8.3
+    },
+    {
+        "name": "京都",
+        "month": 12,
+        "Average Temperature (°C)": 8.2,
+        "Total Precipitation (mm)": 26.0,
+        "Sunshine Duration (hours)": 175.4,
+        "Average Wind Speed (m/s)": 1.7,
+        "Average Vapor Pressure (hPa)": 7.5
+    },
+    {
+        "name": "舞鶴",
+        "month": 12,
+        "Average Temperature (°C)": 7.1,
+        "Total Precipitation (mm)": 81.0,
+        "Sunshine Duration (hours)": 115.9,
+        "Average Wind Speed (m/s)": 2.3,
+        "Average Vapor Pressure (hPa)": 8.4
+    },
+    {
+        "name": "大阪",
+        "month": 12,
+        "Average Temperature (°C)": 9.3,
+        "Total Precipitation (mm)": 19.5,
+        "Sunshine Duration (hours)": 197.7,
+        "Average Wind Speed (m/s)": 2.2,
+        "Average Vapor Pressure (hPa)": 7.7,
+        "Average Cloud Cover (tenths)": 5.3
+    },
+    {
+        "name": "潮岬",
+        "month": 12,
+        "Average Temperature (°C)": 11.3,
+        "Total Precipitation (mm)": 137.0,
+        "Sunshine Duration (hours)": 201.4,
+        "Average Wind Speed (m/s)": 3.9,
+        "Average Vapor Pressure (hPa)": 9.5
+    },
+    {
+        "name": "和歌山",
+        "month": 12,
+        "Average Temperature (°C)": 9.4,
+        "Total Precipitation (mm)": 29.5,
+        "Sunshine Duration (hours)": 156.6,
+        "Average Wind Speed (m/s)": 4.0,
+        "Average Vapor Pressure (hPa)": 8.4
+    },
+    {
+        "name": "奈良",
+        "month": 12,
+        "Average Temperature (°C)": 7.7,
+        "Total Precipitation (mm)": 27.5,
+        "Sunshine Duration (hours)": 178.0,
+        "Average Wind Speed (m/s)": 2.0,
+        "Average Vapor Pressure (hPa)": 7.7
+    },
+    {
+        "name": "彦根",
+        "month": 12,
+        "Average Temperature (°C)": 7.6,
+        "Total Precipitation (mm)": 59.5,
+        "Sunshine Duration (hours)": 142.7,
+        "Average Wind Speed (m/s)": 2.9,
+        "Average Vapor Pressure (hPa)": 8.0
+    }
+]

@@ -1,0 +1,25 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>気象データ比較ツール</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>気象データ比較ツール</h1>
+
+    <div class="controls">
+        <label for="location1">地点1:</label>
+        <select id="location1"></select>
+
+        <label for="location2">地点2:</label>
+        <select id="location2"></select>
+
+        <button id="compare">比較</button>
+    </div>
+
+    <svg id="chart" width="600" height="400"></svg>
+
+    <script src="main.js"></script>
+</body>
+</html>
