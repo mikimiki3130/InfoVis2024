@@ -1,25 +1,47 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>気象データ比較ツール</title>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <link rel="stylesheet" href="https://mikimiki3130.github.io/InfoVis2024/FinalEx/style.css">
-</head>
-<body>
-    <h1>気象データ比較ツール</h1>
+<!DOCTYPE html> 
+<html lang="ja"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>地域別気象データ比較</title> 
+    <script src="https://d3js.org/d3.v7.min.js"></script> 
+    <style> 
+        body { 
+            font-family: Arial, sans-serif; 
+        } 
+        #map { 
+            margin: 20px 0; 
+        } 
+        #selected-locations { 
+            font-weight: bold; 
+        } 
+        #chart { 
+            margin-top: 20px; 
+        }
+        #variable-select {
+            margin: 20px 0;
+        }
+    </style> 
+</head> 
+<body> 
+    <h1>地域別気象データ比較</h1> 
 
-    <div class="controls">
-        <label for="location1">地点1:</label>
-        <select id="location1"></select>
+    <!-- 地図表示 --> 
+    <div id="map"></div> 
 
-        <label for="location2">地点2:</label>
-        <select id="location2"></select>
+    <!-- 変数選択リスト -->
+    <p> Select variable
+        <select id="variable-select">
+            
+        </select>
+    </p>
 
-        <button id="compare">比較</button>
-    </div>
-
-    <svg id="chart" width="600" height="400"></svg>
-
-    <script src="main.js"></script>
-</body>
+    <!-- 選択された地点の表示 --> 
+    <p>Selected Locations: <span id="selected-locations">None</span></p> 
+    
+    <!-- グラフ表示 --> 
+    <svg id="chart"></svg> 
+ 
+    <script src="script.js"></script> 
+</body> 
 </html>
