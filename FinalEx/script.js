@@ -124,14 +124,14 @@ class LineChart {
         this.chart.append('path') 
             .datum(data1) 
             .attr('d', this.line) 
-            .attr('stroke', 'blue') 
+            .attr('stroke', 'magenta') 
             .attr('fill', 'none') 
             .attr('stroke-width', 2); 
 
         this.chart.append('path') 
             .datum(data2) 
             .attr('d', this.line) 
-            .attr('stroke', 'red') 
+            .attr('stroke', 'orange') 
             .attr('fill', 'none') 
             .attr('stroke-width', 2); 
     } 
@@ -180,7 +180,7 @@ class LineChart {
             .attr("y", 10)
             .attr("width", 20)
             .attr("height", 3)
-            .attr("fill", "blue");
+            .attr("fill", "magenta");
         legend.append("text")
             .attr("x", 25)
             .attr("y", 15)
@@ -191,7 +191,7 @@ class LineChart {
             .attr("y", 40)
             .attr("width", 20)
             .attr("height", 3)
-            .attr("fill", "red");
+            .attr("fill", "orange");
         legend.append("text")
             .attr("x", 25)
             .attr("y", 45)

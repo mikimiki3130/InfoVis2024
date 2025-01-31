@@ -23,25 +23,28 @@
         }
     </style> 
 </head> 
-<body> 
-    <h1>地域別気象データ比較（2023年データ）</h1> 
+<body>  
+    <h1>地域別気象データ比較（2023年データ）</h1>  
 
-    <!-- 地図表示 --> 
-    <div id="map"></div> 
+    <!-- 変数選択リスト --> 
+    <p> Select variable 
+        <select id="variable-select"> 
+            <!-- 変数選択肢がここに入る -->
+        </select> 
+    </p> 
 
-    <!-- 変数選択リスト -->
-    <p> Select variable
-        <select id="variable-select">
-            
-        </select>
-    </p>
+    <!-- 選択された地点の表示 -->  
+    <p>Selected Locations: <span id="selected-locations">None</span></p>  
 
-    <!-- 選択された地点の表示 --> 
-    <p>Selected Locations: <span id="selected-locations">None</span></p> 
-    
-    <!-- グラフ表示 --> 
-    <svg id="chart"></svg> 
- 
-    <script src="script.js"></script> 
-</body> 
+    <!-- 横並びで2つの図を表示するためのコンテナ -->
+    <div style="display: flex; gap: 20px; justify-content: space-between;">
+        <!-- 地図表示 -->  
+        <div id="map" style="width: 45%; height: 400px;"></div>  
+
+        <!-- グラフ表示 -->  
+        <svg id="chart" style="width: 45%; height: 400px;"></svg>  
+    </div>
+
+    <script src="script.js"></script>  
+</body>  
 </html>
